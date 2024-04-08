@@ -8,12 +8,9 @@ I'm a Data Analyst.
 **Current Stack**
 Main language: 'MySQL' and 'Python'
 
-<div style="display: inline_block" margin-bottom = 2px><br>
+<div style="display: inline_block" margin-bottom = "50px"><br>
   <img align="center" alt="MySQL Logo" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Python Logo" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<div>
-  
 </div>
 
 <div>
