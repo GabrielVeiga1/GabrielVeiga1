@@ -15,6 +15,7 @@ Main language: 'MySQL' and 'Python'
   <a href="https://www.linkedin.com/in/gabrielrveiga/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: top; margin: 6px 4px">
   </a>
+  <span style="margin-right: 10px;"></span> <!-- Espaço adicionado -->
   <a href="https://instagram.com/gabrielrveiga" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
