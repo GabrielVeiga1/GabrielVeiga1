@@ -17,9 +17,9 @@ Main language: 'MySQL' and 'Python'
   <a href="https://www.linkedin.com/in/gabrielrveiga/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: top; margin-right = 10px;">
   </a>
-  <a href="(https://www.instagram.com/gabrielrveiga_)" target="_blank">
+ <a href="https://www.instagram.com/gabrielrveiga_?igsh=N2xlcnRzODNjbnNn&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
+</a>
   <a href="mailto:gabrielveiga1504@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
