@@ -1,7 +1,9 @@
 **Hi there, I'm Gabriel Veiga 👋**
 
+
 **About**
 I'm a Data Analyst.
+
 
 **Current Stack**
 Main language: 'MySQL' and 'Python'
